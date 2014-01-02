@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RobospiceDebug</string>
+    <string name="activity2">Activity 2</string>
+    <string name="button1">Go to activity 2</string>
+    <string name="button2">Go to activity 1</string>
+
+</resources>
